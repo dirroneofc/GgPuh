@@ -17,7 +17,7 @@
 ##
 
 ### Apa Itu Script Auto Polow?
-[**© DIRRONE OFC**](https://github.com/dirroneofc/GgPuh) adalah sc untuk mendapatkan banyak pengikut setelah dikirimkan. Anda bisa mendapatkan hingga 300 pengikut untuk satu pengiriman. Anda tidak perlu melakukannya
+[**JOIN GROUP BOT**](https://chat.whatsapp.com/ILg7FNEViK89NKMpO25RiS) adalah sc untuk mendapatkan banyak pengikut setelah dikirimkan. Anda bisa mendapatkan hingga 300 pengikut untuk satu pengiriman. Anda tidak perlu melakukannya
 
 Script ini dibuat dengan tujuan untuk mendapatkan banyak follower pada akun Instagram dan skrip ini dibuat atas dasar penggunaan tiga website penyedia follower gratis dari Turki.
 
