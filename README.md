@@ -22,7 +22,7 @@
 Script ini dibuat dengan tujuan untuk mendapatkan banyak follower pada akun Instagram dan skrip ini dibuat atas dasar penggunaan tiga website penyedia follower gratis dari Turki.
 
 ### Perintah Termux?
-Pertama anda harus mempunyai aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk) untuk menjalankan script ini dan untuk cara penggunaannya bisa dilihat di [**Youtube**]( https://youtu.be/3Zt
+Pertama anda harus mempunyai aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk) untuk menjalankan script ini dan untuk cara penggunaannya bisa dilihat di [**Youtube**]( https://youtube.com/@dirroneofc)
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
